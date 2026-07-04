@@ -46,6 +46,6 @@ Log Analytics
 
 ## 📫 Connect
 
-LinkedIn: www.linkedin.com/in/hanamantmunavalli858
+LinkedIn: www.linkedin.com/in/hanamant-munavalli858
 
 Email: hsmunavalli@gmail.com
