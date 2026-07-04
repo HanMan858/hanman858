@@ -42,22 +42,7 @@ Azure Monitor
 Application Insights
 Log Analytics
 
-## 📂 Featured Projects
 
-### Azure Landing Zone Deployment
-End-to-end Bicep deployment for enterprise Azure environments.
-
-### Multi-Stage Azure DevOps Pipeline
-CI/CD implementation for .NET applications using YAML pipelines.
-
-### Azure VM Backup Automation
-PowerShell automation for Recovery Services Vault backups.
-
-### Key Vault Secret Rotation
-Automated secret lifecycle management solution.
-
-### Azure Network Security Architecture
-Hub-Spoke architecture with Firewall, WAF and Private Endpoints.
 
 ## 📫 Connect
 
